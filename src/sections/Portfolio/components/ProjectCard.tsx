@@ -63,6 +63,7 @@ const techIcons: Record<string, React.ElementType> = {
   "ShadCN UI" : SiShadcnui ,
   "NextAuth" : RiShieldKeyholeFill ,
   "Sanity" : SiSanity ,
+  "Tailwind CSS" : SiTailwindcss ,
 
 
 
